@@ -20,7 +20,7 @@ Frei kopiert von [Wikipedia](https://de.wikipedia.org/wiki/Conways_Spiel_des_Leb
 - Minimiert den Code
     - Wir spielen Code Golf. Hier gewinnt, wer den kürzesten, korrekten Code abliefern kann.
     - Bei Gleichstand gewinnt die durchschnittliche Laufzeit für dieselbe Aufgabe auf meinem Rechner.
-- Sendet eure `conways_game_of_life.py` (AUSSCHLIEßLICH DIE!) an [diese Adresse](mailto:kontakt@the-morpheus.de?subject=ITCS%20Challenge%20Abgabe&body=Hallo%20Morpheus%2C%0A%0Amein%20Name%20auf%20clabby.io%2C%20dem%20Portal%20f%C3%BCr%20die%20ITCS%2C%20ist%3A%20%3CNAME%20EINF%C3%9CGEN!!!%3E.%0A%0AMeine%20Datei%20'conways_game_of_life.py'%20findest%20du%20im%20Anhang.%0A%0AIch%20bin%20zur%20Aufl%C3%B6sung%20und%20Siegerehrung%20um%2015%3A30%20sp%C3%A4testens%20wieder%20%20bei%20der%20ITCS%20am%20Start.%0A%0ACheers%2C%0Adein%20Abonnent%0A) und packt euren Namen von Clabby dazu! Sonst können wir euch am Ende nicht identifizieren.
+- Sendet eure `conways_game_of_life.py` (AUSSCHLIEßLICH DIE!) an [diese Adresse](mailto:kontakt@the-morpheus.de?subject=ITCS%20Challenge%20Abgabe&body=Hallo%20Morpheus%2C%0A%0Amein%20Name%20auf%20clabb.io%2C%20dem%20Portal%20f%C3%BCr%20die%20ITCS%2C%20ist%3A%20%3CNAME%20EINF%C3%9CGEN!!!%3E.%0A%0AMeine%20Datei%20'conways_game_of_life.py'%20findest%20du%20im%20Anhang.%0A%0AIch%20bin%20zur%20Aufl%C3%B6sung%20und%20Siegerehrung%20um%2015%3A30%20sp%C3%A4testens%20wieder%20%20bei%20der%20ITCS%20am%20Start.%0A%0ACheers%2C%0Adein%20Abonnent%0A) und packt euren Namen von Clabb.io dazu! Sonst können wir euch am Ende nicht identifizieren.
 - Ihr habt Zeit bis 14:59 einschließlich. Ab 15:00 wird nichts mehr angenommen.
 
 ## Wie funktioniert Conways Game of Life?
