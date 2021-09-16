@@ -38,5 +38,6 @@ Es gibt tote und lebende Zellen. Zellen sind immer viereckig und haben damit 8 d
 ## Q&A
 <details>
 <summary>Wo kann ich Fragen stellen?</summary>
+<br/>
 [Hier anfragen.](mailto:kontakt@the-morpheus.de) dann wird es in diesem Readme eingetragen.
 </details>
