@@ -43,6 +43,7 @@ Das bedeutet:
 - Dasselbe gilt für die Spalte x,0. Auch hier muss x,0 gelöscht werden, wenn keine Zelle dort lebt und x,1 muss an x,0 rücken.
 - Sollte die Zelle an -1,x oder x,-1 zum Leben erwachen muss ebenfalls geschoben werden, dieses Mal in die positive Richtung
 - Falls es unverständlich war: Es sollte in der obersten Zeile irgendwo eine Zelle leben und in der linkesten Spalte muss auch eine Zelle leben. Negative Indices gehen natürlich ebenfalls nicht
+[![N|Solid](Images/Normalisierung.png)](https://playgameoflife.com/)
 
 ## Q&A
 <details>
