@@ -35,6 +35,15 @@ Es gibt tote und lebende Zellen. Zellen sind immer viereckig und haben damit 8 d
 > Eine neue Runde berechnet sich für alle Zellen immer gleichzeitig.
 > Eine Visualisierung des Game of Life gibt es [hier.](https://playgameoflife.com/)
 
+## Normalisierung
+Bei Conways Game of Life kann es zu "Wanderungen" kommen. Das heißt, sind am Anfang Felder 0,0; 1,0 und 0,1 belegt könnte irgendwann später Feld 1000,1337; 1001,1337 etc belegt sein, jedoch im Bereich 0,0 ist nichts mehr aktiv. Auch in die andere Richtung kann es sich ausbreiten, also mit aktiven Feldern zB auf -10,-20.
+Für die Lösung *MÜSSEN* die Ergebnisse normalisiert sein. Für Listen kann es ja keine negativen Einträge geben.
+Das bedeutet:
+- Ist die Zeile unter 0,x leer, sprich keine einzige Zelle am Leben muss sie gelöscht werden, sodass 1,x zu 0,x wird. Ist 1,x auch leer muss die Zelle ebenfalls gelöscht werden.
+- Dasselbe gilt für die Spalte x,0. Auch hier muss x,0 gelöscht werden, wenn keine Zelle dort lebt und x,1 muss an x,0 rücken.
+- Sollte die Zelle an -1,x oder x,-1 zum Leben erwachen muss ebenfalls geschoben werden, dieses Mal in die positive Richtung
+- Falls es unverständlich war: Es sollte in der obersten Zeile irgendwo eine Zelle leben und in der linkesten Spalte muss auch eine Zelle leben. Negative Indices gehen natürlich ebenfalls nicht
+
 ## Q&A
 <details>
 <summary>Wo kann ich Fragen stellen?</summary>
