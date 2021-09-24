@@ -69,7 +69,7 @@ Nein. Nur die allerletzte Runde.
 <details>
 <summary>Tabs?</summary>
 <br/>
-Zählen als 4 Leerzeichen.
+ÄNDERUNG: Zählen doch als 1 Zeichen. Ich wurde darauf aufmerksam gemacht, dass es ja keinen Unterschied macht und man ja auch mit einem Leerzeichen einrücken kann.
 </details>
 <details>
 <summary>Fehlerhafte Eingaben</summary>
