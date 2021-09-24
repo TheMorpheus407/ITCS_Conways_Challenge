@@ -89,3 +89,9 @@ Nein, nicht unbedingt. Es könnte jegliche Zahl als Eingabe kommen.
 Negative Runden existieren nicht und sind nicht erlaubt. Ihr müsst sie nicht behandeln.
 Wenn Rounds = 0 übergeben wird, heißt das, dass keine Epoche stattfindet, die Anfangskonstellation ist also die Ausgabe.
 </details>
+
+<details>
+<summary>Leere / Tote Welten</summary>
+<br/>
+Sind absolut legitim und kommen häufig vor. Gebt eine leere Liste oder None zurück. Beides ist erlaubt.
+</details>
