@@ -51,3 +51,8 @@ Das bedeutet:
 <br/>
 [Hier anfragen.](mailto:kontakt@the-morpheus.de) dann wird es in diesem Readme eingetragen.
 </details>
+<details>
+<summary>Welche Libraries sind erlaubt?</summary>
+<br/>
+Standard-Library plus Numpy und Pandas.
+</details>

@@ -14,13 +14,14 @@ def main():
             x, y= map(int, s.split(','))
             return x, y
         except:
-            raise argparse.ArgumentTypeError("Coordinates must be x,y,z")
+            raise argparse.ArgumentTypeError("Coordinates must be x,y")
 
     parser.add_argument('--coords', help="Coordinates", dest="coords", type=coords, nargs='+')
     parser.add_argument('--rounds', type=int, dest="rounds")
     args = parser.parse_args()
     print(args)
-    c(args.coords, args.rounds)
+    tuples = c(args.coords, args.rounds)
+    print(tuples) #[(1,1), (2,2)]
 
 if __name__ == "__main__":
     main()
