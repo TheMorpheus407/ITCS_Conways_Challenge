@@ -71,3 +71,8 @@ Nein. Nur die allerletzte Runde.
 <br/>
 Zählen als 4 Leerzeichen.
 </details>
+<details>
+<summary>Fehlerhafte Eingaben</summary>
+<br/>
+Wenn es in der Main.py zu einem Fehler führt, ist das für euch egal, es wäre aber möglich "None"-Koordinaten zu bekommen. Die müsst ihr abfangen.
+</details>
