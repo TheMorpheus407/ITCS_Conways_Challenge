@@ -83,3 +83,9 @@ Beispiel 2: 'python main.py --rounds 2' führt zu coords = None und muss von euc
 <br/>
 Nein, nicht unbedingt. Es könnte jegliche Zahl als Eingabe kommen.
 </details>
+<details>
+<summary>Negative und 0-Runden</summary>
+<br/>
+Negative Runden existieren nicht und sind nicht erlaubt. Ihr müsst sie nicht behandeln.
+Wenn Rounds = 0 übergeben wird, heißt das, dass keine Epoche stattfindet, die Anfangskonstellation ist also die Ausgabe.
+</details>
