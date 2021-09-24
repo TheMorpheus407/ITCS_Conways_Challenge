@@ -61,4 +61,13 @@ Standard-Library plus Numpy und Pandas.
 <br/>
 Nein. Sie muss nur der Form Liste von Tuples folgen.
 </details>
-
+<details>
+<summary>Müssen alle Runden ausgegeben werden?</summary>
+<br/>
+Nein. Nur die allerletzte Runde.
+</details>
+<details>
+<summary>Tabs?</summary>
+<br/>
+Zählen als 4 Leerzeichen.
+</details>
