@@ -21,7 +21,7 @@ def main():
     args = parser.parse_args()
     print(args)
     tuples = c(args.coords, args.rounds)
-    print(tuples) #[(1,1), (2,2)]
+    print(tuples) #[(0,0), (1,1), (2,2)]
 
 if __name__ == "__main__":
     main()
