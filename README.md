@@ -76,3 +76,8 @@ Zählen als 4 Leerzeichen.
 <br/>
 Wenn es in der Main.py zu einem Fehler führt, ist das für euch egal, es wäre aber möglich "None"-Koordinaten zu bekommen. Die müsst ihr abfangen.
 </details>
+<details>
+<summary>Input normalisiert?</summary>
+<br/>
+Nein, nicht unbedingt. Es könnte jegliche Zahl als Eingabe kommen.
+</details>
