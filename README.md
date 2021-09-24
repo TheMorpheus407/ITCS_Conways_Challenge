@@ -95,3 +95,17 @@ Wenn Rounds = 0 übergeben wird, heißt das, dass keine Epoche stattfindet, die 
 <br/>
 Sind absolut legitim und kommen häufig vor. Gebt eine leere Liste oder None zurück. Beides ist erlaubt.
 </details>
+
+<details>
+<summary>Maximale Runden</summary>
+<br/>
+Stellt sicher, dass es bis zu 10.000 Runden funktioniert.
+</details>
+
+
+<details>
+<summary>Doppelte Eingaben</summary>
+<br/>
+Werden nicht(!) stattfinden, dh ihr dürft davon ausgehen, dass 1,1 1,1 niemals euch gegeben wird.
+</details>
+
