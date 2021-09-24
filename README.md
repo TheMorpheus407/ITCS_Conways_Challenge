@@ -75,6 +75,8 @@ Nein. Nur die allerletzte Runde.
 <summary>Fehlerhafte Eingaben</summary>
 <br/>
 Wenn es in der Main.py zu einem Fehler führt, ist das für euch egal, es wäre aber möglich "None"-Koordinaten zu bekommen. Die müsst ihr abfangen.
+Beispiel: Der Aufruf "python main.py --coords 1,None --rounds 2" führt zu einem Fehler in der main.py, ist daher für euch egal.
+Beispiel 2: 'python main.py --rounds 2' führt zu coords = None und muss von euch abgedeckt werden - es leben dann einfach keine Zellen.
 </details>
 <details>
 <summary>Input normalisiert?</summary>
