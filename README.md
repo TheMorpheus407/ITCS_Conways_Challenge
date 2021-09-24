@@ -56,3 +56,9 @@ Das bedeutet:
 <br/>
 Standard-Library plus Numpy und Pandas.
 </details>
+<details>
+<summary>Muss die Ausgabe sortiert sein?</summary>
+<br/>
+Nein. Sie muss nur der Form Liste von Tuples folgen.
+</details>
+
