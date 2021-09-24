@@ -3,7 +3,7 @@
 # python .\main.py --coords 1,2 3,4 5,6 --rounds 2
 
 import argparse
-from conways_game_of_life import c
+from Abgaben.* import c
 
 def main():
     parser = argparse.ArgumentParser(description='Process some integers.')
