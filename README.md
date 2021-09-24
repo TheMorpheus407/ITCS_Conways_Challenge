@@ -88,7 +88,7 @@ Nein, nicht unbedingt. Es könnte jegliche Zahl als Eingabe kommen.
 <summary>Negative und 0-Runden</summary>
 <br/>
 Negative Runden existieren nicht und sind nicht erlaubt. Ihr müsst sie nicht behandeln.
-Wenn Rounds = 0 übergeben wird, heißt das, dass keine Epoche stattfindet, die Anfangskonstellation ist also die Ausgabe.
+Wenn Rounds = 0 übergeben wird, heißt das, dass keine Epoche stattfindet, die (gegebenenfalls zu normalisierende) Anfangskonstellation ist also die Ausgabe.
 </details>
 
 <details>
