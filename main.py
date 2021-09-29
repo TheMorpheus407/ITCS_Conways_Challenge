@@ -3,7 +3,8 @@
 # python .\main.py --coords 1,2 3,4 5,6 --rounds 2
 
 import argparse
-from Abgaben.* import c
+# replace the * with the solution you want to run for example: Solutions.defelo
+from Solutions.* import c
 
 def main():
     parser = argparse.ArgumentParser(description='Process some integers.')
